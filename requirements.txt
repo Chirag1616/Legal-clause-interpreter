@@ -1,4 +1,5 @@
 aiohappyeyeballs==2.4.4
+pypdf
 langchain_huggingface
 huggingface-hub
 aiohttp==3.11.11
