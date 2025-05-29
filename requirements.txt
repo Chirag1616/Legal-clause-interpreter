@@ -1,5 +1,7 @@
 aiohappyeyeballs==2.4.4
 pypdf
+transformers
+torch
 langchain_huggingface
 huggingface-hub
 aiohttp==3.11.11
